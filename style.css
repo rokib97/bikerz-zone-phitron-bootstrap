@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+.bz-carousel-control-prev-icon {
+  background-color: rgba(170, 207, 170, 0.571) !important;
+}
+.bz-carousel-control-next-icon {
+  background-color: rgba(170, 207, 170, 0.571) !important;
+}
